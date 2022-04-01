@@ -1,0 +1,43 @@
+header {
+    background: #B11313;
+    background-size: 100%;
+}
+
+.btn-1 {
+    color: #B11313;
+    background-color: #FFF;
+    border: solid 1px white;
+}
+
+.btn-2 {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: solid 1px white;
+}
+
+.btn-3 {
+    background-color: #B11313;
+    color: #FFF;
+    border: #B11313 solid 1px;
+}
+
+.footer-media img {
+    background-color: #B11313;
+    margin: 8px 3px;
+}
+
+.bg-sect-3 {
+    background-color: #B11313;
+    width: 100%;
+    height: 100vh;
+}
+
+.img-3 {
+    max-width: 63vw;
+    padding-bottom: 0;
+}
+
+.btn-sect-3 {
+    background-color: #FFF;
+    color: #B11313;
+    border: 1px solid #B11313;
+}

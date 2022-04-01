@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'far_from_homecoming';
+    src: url('/Assets/Far-From/ Homecoming/ Updated.otf');
+}
+
+header {
+    background-color: #F1C530;
+}
+
+.first-cont {
+    height: 600px;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.sec-cont {
+    background: #F1C530;
+    width: 100%;
+    height: 100rem;
+}
+
+div .titre-adve {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.4rem;
+    text-align: center;
+    position: relative;
+}
